@@ -1,0 +1,1 @@
+{"tabs/main":{"needLogin":false,"pageUrl":"tabs/main","className":"MainFragment"},"tabs/third":{"needLogin":false,"pageUrl":"tabs/third","className":"ThirdFragment"},"tabs/second":{"needLogin":true,"pageUrl":"tabs/second","className":"SecondFragment"}}
